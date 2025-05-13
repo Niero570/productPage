@@ -1,0 +1,29 @@
+#header-img{
+    width: 60px;
+    margin: auto;
+
+}
+#ptag{
+    width: 50vw;
+   font-style: italic;
+   border-top: 0cqb;
+   
+}
+header{
+    text-align: center;
+    background-color: crimson;
+
+}
+#nav-bar{
+    stop-color: rgba(199, 218, 195, 0.378);
+    
+}
+.text-center img {
+    display: block;
+    margin: 0 auto; /* Centers the image */
+}
+
+.text-center p {
+    margin-top: 10px; /* Adds a small gap */
+    margin-bottom: 40px;
+}
