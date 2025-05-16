@@ -1,12 +1,15 @@
 #header-img{
-    width: 60px;
+    width: 600px;
     margin: auto;
 
 }
 #ptag{
     width: 50vw;
-   font-style: italic;
+   font-family: cursive;
    border-top: 0cqb;
+   margin: auto;
+   font-weight: bold;
+   color: darkmagenta;
    
 }
 header{
@@ -26,4 +29,7 @@ header{
 .text-center p {
     margin-top: 10px; /* Adds a small gap */
     margin-bottom: 40px;
+}
+#carouselExampleIndicators{
+margin-bottom: 200px;
 }
